@@ -1,0 +1,20 @@
+========= EN.ODT SECTION =========
+
+We apologize for the inconvenience caused by the limitations of the Indiegogo platform. Due to these limitations, displaying translations in a more user-friendly manner is not possible. To continue supporting our campaign, please go back to the campaign page or click the following link: [Campaign Page Link].
+
+========= SK.ODT SECTION =========
+
+Ospravedlňujeme sa za nepríjemnosti spôsobené obmedzeniami platformy Indiegogo. Vzhľadom na tieto obmedzenia nie je možné zobrazovať preklady v priateľnejšej forme. Ak chcete pokračovať v podpore našej kampane, vráťte sa späť na stránku kampane alebo kliknite na nasledujúci odkaz: [Odkaz na stránku kampane].
+
+========= CZ.ODT SECTION =========
+
+Omlouváme se za nepříjemnosti způsobené omezeními platformy Indiegogo. Kvůli těmto omezením není možné zobrazovat překlady v uživatelsky přívětivější podobě. Pro pokračování ve podpoře naší kampaně se vraťte zpět na stránku kampaně nebo klikněte na následující odkaz: [Odkaz na stránku kampaně].
+
+========= PL.ODT SECTION =========
+
+Przepraszamy za niedogodności wynikające z ograniczeń platformy Indiegogo. Ze względu na te ograniczenia, niemożliwe jest wyświetlanie tłumaczeń w bardziej przyjazny sposób. Aby kontynuować wsparcie naszej kampanii, prosimy wrócić do strony kampanii lub kliknąć poniższy link: [Link do strony kampanii].
+
+========= DE.ODT SECTION =========
+
+Wir entschuldigen uns für die Unannehmlichkeiten aufgrund der Einschränkungen der Indiegogo-Plattform. Aufgrund dieser Einschränkungen ist es nicht möglich, Übersetzungen auf benutzerfreundlichere Weise anzuzeigen. Um unsere Kampagne weiterhin zu unterstützen, kehren Sie bitte zur Kampagnenseite zurück oder klicken Sie auf den folgenden Link: [Link zur Kampagnenseite].
+
